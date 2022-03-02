@@ -1,2 +1,2 @@
 # release-test
-Test uploading a release
+Test uploading a foo
